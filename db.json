@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "test",
+      "title": "New event Object",
+      "description": "LAB02 Q14.5",
+      "location": "idk I'm lost",
+      "date": "Febuary 14, 2069",
+      "time": "69:420",
+      "petsAllowed": true,
+      "organizer": "Ligma Balls"
     }
   ]
 }
